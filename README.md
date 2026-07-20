@@ -1,4 +1,4 @@
-# CAD-Training
+# CAD-Training Summary
 
 A curated portfolio of 3D models, components, and assemblies developed as part of my self-directed engineering design practice. This repository showcases a mix of personal projects, practical problem-solving tools, and exploratory drafting concepts.
 
