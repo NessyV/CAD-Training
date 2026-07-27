@@ -13,7 +13,7 @@ This project includes **3 distinct structural variants**:
 
 1. **Shelled (2.5 mm Wall Thickness):** Optimized for lightweight use and minimal material usage.
 2. **Shelled (5.0 mm Wall Thickness):** Balanced structural rigidity and print efficiency *(Recommended)*.
-3. **Solid:** Maximum mass and density for heavy-duty applications.
+3. **Solid:** Maximum mass and density for heavy-duty applications. *(might be unnecessary or overkill on most cases)*
 
 > [!TIP]
 > For standard 3D printing, using one of the **shelled variants** is strongly recommended to significantly reduce printing costs, material consumption, and overall print time.
