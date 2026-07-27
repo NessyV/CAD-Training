@@ -3,7 +3,7 @@
 A 3D-printable tablet stand designed with multiple structural options to optimize material usage and print time.
 
 > [!WARNING]
-> **Print Readiness Notice:** The model parameters and stress analysis (FEA) were simulated using **ABS** material properties. Other types of filament might need their own simulation or practical physical testing. Because physical test prints have not yet been conducted, slicer parameters and tolerances may require slight tweaking prior to printing.
+> **Print Readiness Notice:** Physical prototype validation has not yet been conducted; all load-bearing FEA simulations were executed using standard **ABS** mechanical properties. Alternate filament materials will require separate FEA validation or physical strain testing. Because native CAD files (`.ipt`) are provided, users must convert the geometry to mesh formats (e.g., `.stl`, `.3mf`), configure slicing parameters, and perform fine-tune parameter adjustments to match specific manufacturing equipment and material shrinkage behavior.
 
 ---
 
