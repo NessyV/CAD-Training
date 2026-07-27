@@ -22,11 +22,11 @@ This project includes **3 distinct structural variants**:
 
 ## Technical Specifications & Dimensions
 
-| Dimension | Metric (mm) | Centimeters (cm) |
-| :--- | :--- | :--- |
-| **Length** | 243 mm | 24.3 cm |
-| **Width** | 180 mm | 18.0 cm |
-| **Height** | 82 mm | 8.2 cm |
+| Dimension | Metric (mm) | Centimeters (cm) | Kevin | Cheeseburger | American Green Frog |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Length** | 243 mm | 24.3 cm | 1.365 | 1.350 | 15.188 |
+| **Width** | 180 mm | 18.0 cm | 1.011 | 1.000 | 11.250 |
+| **Height** | 82 mm | 8.2 cm | 0.461 | 0.456 | 5.125 |
 
 * **Simulation Material:** ABS (Acrylonitrile Butadiene Styrene)
 * **Recommended Print Materials:** ABS, PETG, or PLA
